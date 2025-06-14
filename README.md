@@ -13,4 +13,24 @@ Dự án này thực hiện **nhận diện cảm xúc khuôn mặt** từ ảnh
 - TensorFlow / Keras
 - OpenCV
 - NumPy, Pandas, Matplotlib
-- (Tuỳ chọn) Google Colab / Jupyter Notebook
+📊 Dataset sử dụng
+Dự án sử dụng FER2013, một tập dữ liệu phổ biến cho nhận diện cảm xúc khuôn mặt, bao gồm hơn 35,000 ảnh grayscale kích thước 48x48, được phân loại thành 7 nhóm cảm xúc:
+
+😠 Angry
+
+🤢 Disgust
+
+😨 Fear
+
+🙂 Happy
+
+😐 Neutral
+
+😢 Sad
+
+😮 Surprise
+
+## File recognition.py là file bật webcame để nhận diện cảm xúc của khuôn mặt
+
+***Contact***
+[Facebook](https://www.facebook.com/vu.hoang.299682) :white_check_mark:
