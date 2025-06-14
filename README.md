@@ -13,6 +13,8 @@ Dự án này thực hiện **nhận diện cảm xúc khuôn mặt** từ ảnh
 - TensorFlow / Keras
 - OpenCV
 - NumPy, Pandas, Matplotlib
+
+
 📊 Dataset sử dụng
 Dự án sử dụng FER2013, một tập dữ liệu phổ biến cho nhận diện cảm xúc khuôn mặt, bao gồm hơn 35,000 ảnh grayscale kích thước 48x48, được phân loại thành 7 nhóm cảm xúc:
 
